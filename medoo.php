@@ -41,6 +41,8 @@ class medoo
 
 	protected $debug_mode = false;
 
+	//Construct
+
 	public function __construct($options = null)
 	{
 		try {
